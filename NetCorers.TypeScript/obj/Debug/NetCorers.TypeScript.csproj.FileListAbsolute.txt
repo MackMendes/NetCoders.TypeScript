@@ -1,0 +1,6 @@
+E:\NetCodes\TypeScript\NetCorers.TypeScript\NetCorers.TypeScript\bin\NetCorers.TypeScript.dll.config
+E:\NetCodes\TypeScript\NetCorers.TypeScript\NetCorers.TypeScript\bin\NetCorers.TypeScript.dll
+E:\NetCodes\TypeScript\NetCorers.TypeScript\NetCorers.TypeScript\bin\NetCorers.TypeScript.pdb
+E:\NetCodes\TypeScript\NetCorers.TypeScript\NetCorers.TypeScript\obj\Debug\NetCorers.TypeScript.csprojResolveAssemblyReference.cache
+E:\NetCodes\TypeScript\NetCorers.TypeScript\NetCorers.TypeScript\obj\Debug\NetCorers.TypeScript.dll
+E:\NetCodes\TypeScript\NetCorers.TypeScript\NetCorers.TypeScript\obj\Debug\NetCorers.TypeScript.pdb

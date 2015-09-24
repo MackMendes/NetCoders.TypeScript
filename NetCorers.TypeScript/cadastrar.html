@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+    <title></title>
+    <!-- BootBox é o style do alerta personalizado do BootBox -->
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <!-- Como dentro do TypeScript usamos o Jquery portado, somos obrigados a trazer o Jquery original Nativo  -->
+    <script src="Scripts/jquery-2.1.1.min.js"></script>
+    <!-- Baixamos o BootStrap para utilizarmos o BootBox -->
+    <script src="Scripts/bootstrap.js"></script>
+    <!-- BootBox é uma alerta personalizado do bootstrap -->
+    <script src="Scripts/bootbox.min.js"></script>
+    <!-- Lembrar de sempre importar TUDO qualquer arquivo em typescipt tem que importar -->
+    <script src="Layers/Model/ClienteMOD.js"></script>
+
+    <script src="Layers/Business/Base/IBaseBUS.js"></script>
+    <script src="Layers/Business/ClienteBUS.js"></script>
+
+    <!-- Na hora de importar para página é sempre o JS, o arquivo gerado automaticamente pelo Visual Studio (TSC)  -->
+    <script src="Layers/View/CadastrarVM.js"></script>
+</head>
+<body>
+    <header>
+        <div>
+            <h1>
+                ..:: TypeScript dos Hackerzão ::..
+            </h1>
+        </div>
+    </header>
+    <section>
+        <div>
+            <div>
+                <label for="nome">Nome</label>
+                <input type="text" id="nome" />
+            </div>
+
+            <div>
+                <label for="email">E-mail</label>
+                <input type="email" id="email" />
+            </div>
+
+            <div>
+                <label for="telefone">Telefone</label>
+                <input type="tel" id="telefone" />
+            </div>
+
+            <div>
+                <label for="data">Data Nascimento</label>
+                <input type="date" id="data" />
+            </div>
+
+            <div>
+                <input type="button" id="cadastrar" value="Cadastrar" />
+            </div>
+
+        </div>
+
+    </section>
+
+    <footer>
+
+        <div>
+            <p>Todos os direitos reservados ao Mack</p>
+
+        </div>
+
+    </footer>
+
+</body>
+</html>
